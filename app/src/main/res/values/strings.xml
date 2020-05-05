@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComponentExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btn_text_detail">Ir al detalle</string>
+    <string name="btn_text_profile">Ir al perfil</string>
+
+</resources>
